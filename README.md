@@ -1,14 +1,19 @@
-# lumina-portfolio
+# Lumina Software — Portfolio Website
 
-The official portfolio website for Lumina Software.
+Portfolio site for [Lumina Software](https://www.luminasoftwareexperts.com), built with Next.js 16 + Tailwind CSS.
 
-Showcases services, projects, and contact information for potential clients.
+## Stack
 
-## Tech Stack
-- Next.js
-- Tailwind CSS
+- **Framework:** Next.js 16 (App Router)
+- **Styling:** Tailwind CSS
+- **Font:** Geist (next/font/google)
+- **Deploy:** Vercel
 
-## Live Site
-[luminasoftwareexperts.com](https://www.luminasoftwareexperts.com)
+## Getting Started
 
-> Built by [Lumina Software](https://www.luminasoftwareexperts.com)
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000).
